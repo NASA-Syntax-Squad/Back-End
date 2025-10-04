@@ -1,0 +1,12 @@
+#Core web server and application dependencies
+#Flask
+#gunicorn
+#flask-cors
+
+#Data processing and API interaction
+#pandas
+#requests
+#urllib3
+
+#Forecasting model
+#prophet
